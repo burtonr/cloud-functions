@@ -7,3 +7,7 @@ functions:
     lang: node
     handler: ./cloud-test
     image: burtonr/cloud-test:latest
+  atx:
+    lang: ruby
+    handler: ./atx
+    image: burtonr/atx:latest
